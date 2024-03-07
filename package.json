@@ -1,0 +1,16 @@
+{
+  "name": "minify",
+  "version": "1.0.0",
+  "main": "script-minify.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "minify": "node script-minify.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "fs-extra": "^11.2.0",
+    "minify": "^11.1.1"
+  }
+}
